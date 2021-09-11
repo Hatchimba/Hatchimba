@@ -1,6 +1,19 @@
 # Jorge Zuñiga Garay
 # Sobre mí
-Me gusta jugar basket 
+Estudiante universitario, Ciencias de la Computación.
+Me gusta ver anime.
+Practicar Basquet.
+Ver Futbol.
+
+Lenguajes:
+-C++
+-Python
+
+Contactame:
+-jorge.zuniga@utec.edu.pe
+Redes sociales:
+-Facebook, instagram , likendin.
+
 
 <!--
 **Hatchimba/Hatchimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
