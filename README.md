@@ -1,4 +1,5 @@
 # Jorge Zuñiga Garay
+<img src="https://github.com/Hatchimba/Hatchimba/blob/main/images/photo5037390167807208000.jpg" align="right" height="300"></a>
 ## About me
 ***University student, Computer Science.***
 - *I like to watch anime* 🗾
