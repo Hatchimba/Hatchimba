@@ -16,7 +16,5 @@
 ***Social networks:***
 - <a href="https://www.linkedin.com/in/jorge-raul-zu%C3%B1iga-garay-b798611b5/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png">
   </a>&nbsp;&nbsp;
-- <a href="https://www.instagram.com/jr_zg/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-- <a href="https://web.facebook.com/profile.php?id=100055317521785"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 
 
